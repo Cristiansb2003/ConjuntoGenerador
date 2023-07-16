@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,500&family=Nunito+Sans&family=Roboto:wght@100&display=swap");
+/* 
+Tipografias de Google Fonts
+font-family: 'Montserrat', sans-serif;
+font-family: 'Nunito Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+*/
+
+
+.name {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+.name a{
+    font-size: 2rem;
+}
